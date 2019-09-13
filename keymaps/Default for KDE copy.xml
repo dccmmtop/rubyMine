@@ -1,0 +1,10 @@
+<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="Console.TableResult.ColumnVisibility" />
+  <action id="GotoLine" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="VimGotoDeclaration">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+</keymap>
