@@ -1,7 +1,7 @@
-<templateSet group="user">
+<templateSet group="dccmmtop">
   <template name="bdp" value="binding.pry" description="rails 调试" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="OTHER" value="true" />
+      <option name="RUBY" value="true" />
     </context>
   </template>
   <template name="ymd" value="&quot;%Y-%m-%d %H:%M:%S&quot;" description="strftime" toReformat="true" toShortenFQNames="true">
@@ -27,6 +27,11 @@
   <template name="rld" value="Rails.logger.debug(&quot;&quot;)" description="rails 日志输出" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="so" value="System.out.println();" description="System.out.println();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>
