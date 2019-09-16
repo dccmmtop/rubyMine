@@ -1,0 +1,3 @@
+<templateSet group="dccmmtop">
+  <template name="so" value="System.out.println();" toReformat="false" toShortenFQNames="true" />
+</templateSet>
