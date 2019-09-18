@@ -29,7 +29,7 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
-  <template name="so" value="System.out.println();" description="System.out.println();" toReformat="false" toShortenFQNames="true">
+  <template name="so" value="System.out.println($END$);" description="System.out.println();" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
