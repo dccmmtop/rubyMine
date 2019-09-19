@@ -9,12 +9,12 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="cl" value="console.log(&quot;&quot;)" description="console.log()" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log(&quot;$END$&quot;)" description="console.log()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="rli" value="Rails.logger.info(&quot;&quot;)" description="rails 日志输出" toReformat="true" toShortenFQNames="true">
+  <template name="rli" value="Rails.logger.info(&quot;$END$&quot;)" description="rails 日志输出" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="RUBY" value="true" />
     </context>
@@ -29,7 +29,7 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
-  <template name="so" value="System.out.println();" description="System.out.println();" toReformat="false" toShortenFQNames="true">
+  <template name="so" value="System.out.println($END$);" description="System.out.println();" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
