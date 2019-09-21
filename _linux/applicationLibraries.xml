@@ -2886,6 +2886,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/netrc-0.10.3/test" />
       </excluded>
     </library>
+    <library name="newrelic_rpm (v3.1.2, RVM: ruby-2.1.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/ui" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/ui" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/ui" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/newrelic_rpm-3.1.2/recipes" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.6.6.2, RVM: ruby-2.1.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
