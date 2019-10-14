@@ -34,7 +34,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="tt" value="t$END$ = Time.now" toReformat="false" toShortenFQNames="true">
+  <template name="tt" value="t$END$ = Time.now" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="RUBY" value="true" />
     </context>
