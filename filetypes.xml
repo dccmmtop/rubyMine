@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="._mini_apps" type="PLAIN_TEXT" />
       <mapping pattern="/lib" type="PLAIN_TEXT" />
+      <mapping pattern="._mini_apps" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="ttt" type="SQL" />
     </extensionMap>
